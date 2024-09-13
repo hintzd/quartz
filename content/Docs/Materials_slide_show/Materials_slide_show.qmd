@@ -1,5 +1,6 @@
 ---
 title: "&#8203;"
+embed-resources: true
 format: 
   revealjs:
     theme: ["theme.scss"]
