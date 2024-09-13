@@ -1,0 +1,15 @@
+/*-- scss:variables --*/
+/*-- fonts --*/
+$presentation-heading-font: 'Montserrat', sans-serif;
+$mainFont: 'Montserrat', sans-serif;
+
+/*-- scss:rules --*/
+/* montserrat-semibold  */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url("/fonts/montserrat-semibold-webfont.woff2") format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url("/fonts/montserrat-semibold-webfont.woff") format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}

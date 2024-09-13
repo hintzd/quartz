@@ -1,0 +1,18 @@
+---
+title: ""
+embed-resources: true
+format: 
+  revealjs:
+    theme: ["fonts-montserrat.scss"]
+---
+
+# [Daniel Hintz's Finished Works]{style="color:black; font-size: 60px;"}{background-color="#FFFFFF"} 
+
+## [Statistics Masters Paper]{style="color:black; font-size: 45px;"}{background-color="#FFFFFF"}
+
+{{< pdf Daniel_Hintz_Statistics_Masters_paper.pdf width=100% height=600px >}}
+
+## [Masters Masters Presentation]{style="color:black; font-size: 45px;"}{background-color="#FFFFFF"}
+
+<iframe src="Embedding_Presentation/index.html" style="width: 100%; height: 600px; border: 2px solid black;"></iframe>
+
