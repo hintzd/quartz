@@ -13,7 +13,10 @@ format:
 
 ## [Statistics Masters Paper]{style="color:#FFAB40; font-size: 45px; "}{background-image="images/background_slide.png"}
 
+- foo
+<!--
 {{< pdf Daniel_Hintz_Statistics_Masters_paper.pdf width=100% height=600px >}}
+-->
 
 ## [Masters Masters Presentation]{style="color:#FFAB40; font-size: 45px; "}{background-image="images/background_slide.png"}
 
