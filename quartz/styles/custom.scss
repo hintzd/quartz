@@ -2,11 +2,6 @@
 
 // put your custom CSS here!
 
-// variables.scss
-$pageWidth: 731px; /* so left and right sidebars on most laptop sized screens
-*/
-
-
 @use "./variables.scss" as *;
 
 [saved-theme="dark"] body[data-slug="index"] img[src*="banner.svg"] {
