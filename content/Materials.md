@@ -5,7 +5,7 @@ date: 2024-09-13
 
 Under construction 🚧
 
-<iframe src="https://dhintz137.github.io/Completed_Works/" width="100%" height="166px" style="border: none; display: block;" onload="iframeLoaded()"></iframe>
+<iframe src="https://dhintz137.github.io/Completed_Works/" width="100%" height="600px" style="border: none; display: block;" onload="iframeLoaded()"></iframe>
 <!--
 <iframe src="https://dhintz137.github.io/Embedding_Presentation/" style="width: 100%; height: 600px; border: 2px solid white;"></iframe>
 -->
