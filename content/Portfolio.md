@@ -16,7 +16,7 @@ format:
 <button onclick="makeIframeFullscreen()">Go Fullscreen</button>
 
 <!-- Iframe with allowfullscreen and allow="fullscreen" attributes -->
-<iframe id="iframe_view" src="https://dhintz137.github.io/Completed_Works/" width="100%" height="600px" style="border: none; display: block;" allowfullscreen allow="fullscreen"></iframe>
+<iframe id="iframe_view" src="https://dhintz137.github.io/Completed_Works/" width="100%" height="600px" style="border: none; display: block;" onload="iframeLoaded()" allowfullscreen allow="fullscreen"></iframe>
 
 <script>
 // Function to make iframe fullscreen
