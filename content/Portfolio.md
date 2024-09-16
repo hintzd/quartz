@@ -6,11 +6,7 @@ format:
     html: true
 ---
 
-
-<!--
-<iframe src="https://dhintz137.github.io/Completed_Works/" width="100%" height="600px" style="border: none; display: block;" onload="iframeLoaded()" allowfullscreen frameborder="25px"></iframe>
--->
-
+<!-- raw -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,7 +14,7 @@ format:
     <link rel="stylesheet" href="quartz/styles/fullScreen.css">
 </head>
 <body>
-    <!-- iframe to display the Portfolio.html page -->
+    <!-- iframe to display the Completed_Works page -->
     <iframe src="https://dhintz137.github.io/Completed_Works/" allowfullscreen></iframe><br />
 
     <!-- Buttons to toggle fullscreen mode -->
@@ -28,5 +24,5 @@ format:
     <script src="quartz/cli/fullScreen.js"></script>
 </body>
 </html>
-
+<!-- endraw -->
 
