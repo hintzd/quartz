@@ -1,6 +1,10 @@
 ---
 title: Portfolio 💼 
 date: 2024-09-13
+format:
+  html:
+    html-math-method: mathjax
+    html: true
 ---
 
 
