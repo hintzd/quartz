@@ -1,12 +1,9 @@
 ---
-title: Portfolio 💼 
+title: Portfolio 💼
 date: 2024-09-13
-format:
-  html:
-    html: true
 ---
 
-<!-- raw -->
+<!-- Raw HTML block -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,7 +12,7 @@ format:
 </head>
 <body>
     <!-- iframe to display the Completed_Works page -->
-    <iframe src="https://dhintz137.github.io/Completed_Works/" allowfullscreen></iframe><br />
+    <iframe src="https://dhintz137.github.io/Completed_Works/" width="100%" height="600px" style="border: none; display: block;" allowfullscreen></iframe><br />
 
     <!-- Buttons to toggle fullscreen mode -->
     <button id="fullscreen-button">Enter Fullscreen</button>
@@ -24,5 +21,4 @@ format:
     <script src="quartz/cli/fullScreen.js"></script>
 </body>
 </html>
-<!-- endraw -->
 
