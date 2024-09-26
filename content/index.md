@@ -3,7 +3,7 @@ title: "Welcome"
 date: 2023-12-21
 ---
 
-<img src="./banner.svg" width="500" height="250">
+<img src="./banner.svg" style="display: block; margin: 0 auto; width: 550px; height: auto;">
 
 ```poetry
 G'day!
