@@ -116,6 +116,22 @@ In the US, I landed about as far from the ocean as it gets; I landed in Laramie,
     </div>
 </section>
 
+<section>
+   <div class="blaze-slider">
+    <div class="blaze-container">
+        <div class="blaze-track-container">
+        <div class="blaze-track">
+            <div>slide 1</div>
+            <div>slide 2</div>
+            <div>slide 3</div>
+            <div>slide 4</div>
+        </div>
+        </div>
+        <button class="blaze-prev">previous</button>
+        <button class="blaze-next">next</button>
+    </div>
+    </div>
+</section>
 <!--
 - The farm
 - Spearfishing 
