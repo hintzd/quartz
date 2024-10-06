@@ -1,5 +1,19 @@
 # Quartz Edit Log
 
+## Blazed auto scroll carousel
+**Edits**
+modified:
+    content/About.md # added section div blaze-slider
+    package-lock.json # npm i blaze-slider # ie install package 
+    package.json # same as above
+    quartz/components/Body.tsx
+     - added `import blazeScript from "./scripts/blaze-init.inline"`
+     - added `Body.afterDOMLoaded = blazeScript;`
+    quartz/styles/custom.scss # copied and pasted css from https://blaze-slider.dev/docs/installation
+added:
+    quartz/components/scripts/blaze-init.inline.ts # instructions from https://blaze-slider.dev/docs `Using the library via an NPM module` and `Initialize Slider` and `Provide Config`
+
+
 ## OverlayExplorer component (not yet succesful)
 
 SpikeSpiegel — 09/14/2024 3:26 PM

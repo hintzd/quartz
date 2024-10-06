@@ -116,6 +116,7 @@ In the US, I landed about as far from the ocean as it gets; I landed in Laramie,
     </div>
 </section>
 
+<!-- The mechanics of the blaze-slider works it just needs to css to make it pretty 
 <section>
    <div class="blaze-slider">
     <div class="blaze-container">
@@ -132,6 +133,8 @@ In the US, I landed about as far from the ocean as it gets; I landed in Laramie,
     </div>
     </div>
 </section>
+-->
+
 <!--
 - The farm
 - Spearfishing 
